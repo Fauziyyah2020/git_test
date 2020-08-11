@@ -1,1 +1,1 @@
-This is Fauziyyah's git project!
+This is Fauziyyah's first git project!
